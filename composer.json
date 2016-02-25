@@ -1,5 +1,5 @@
 {
-    "name": "julien-perdereau/zf2-swagger-ui",
+    "name": "chamaeleo/zf2-swagger-ui",
     "description": "Swagger UI module for ZF2",
     "type": "library",
     "license": "MIT",
